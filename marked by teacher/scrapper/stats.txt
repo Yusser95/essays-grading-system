@@ -1,4 +1,4 @@
 scrapped essays num : 2211 , from : 2420
-total essays num    : 161922
+total essays num    : 161930
 
-expected essays to be scraped : 147937
+expected essays to be scraped : 147945
