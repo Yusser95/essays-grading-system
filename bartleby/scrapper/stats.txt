@@ -2,3 +2,9 @@ scrapped essays num : 869 , from : 1000
 total essays num    : 499500
 
 expected essays to be scraped : 434065
+
+
+time 
+
+for 10 took 51 second (5 seconds for one essay)
+for 100 took 383 second (3 seconds for one essay)
