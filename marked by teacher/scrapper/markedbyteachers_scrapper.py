@@ -125,9 +125,9 @@ def main(s ,num_of_essays ,output_dir):
                         cnt += 1
 
                         ttime = randint(180,420)
-                        
-                        time.sleep(ttime)
                         print("will sleep for ( {} ) seconds !".format(str(ttime)))
+                        time.sleep(ttime)
+                        
 
                 except Exception as e:
                     s = log_in()
