@@ -22,8 +22,8 @@ num_of_essays = args["essaysNum"]
 
 def log_in():
     login_data = {
-        'username': 'info@progressay.com',
-        'password': 'progressay6',
+        'username': 'xxxx@xxxxx.com',
+        'password': '*******',
     }
 
     s = requests.Session()
