@@ -20,9 +20,9 @@ num_of_essays = args["essaysNum"]
 
 
 def get_autherize_headers():
-    data = {"email":"moktar@progressay.com","password":"Teacher1!"}
+    data = {"email":"xxx@xxx.com","password":"******!"}
     headers = {
-        "Authorization": "Basic bW9rdGFyQHByb2dyZXNzYXkuY29tOlRlYWNoZXIxIQ==",
+        "Authorization": "Basic bW9rdGFyQHByb2dyZsffhgfhXNzYXkuY29tOlRlYWNoZXIxIQ==",
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1 Safari/605.1.15"
     }
     url = "https://api.bartleby.com/auth/authorize"
